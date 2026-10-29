@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chromatic Studio — Color & Accessibility Toolkit
 
 A client-side React + Vite project for exploring color systems and accessibility.
