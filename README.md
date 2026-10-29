@@ -115,5 +115,4 @@ Choose and add a license file before distributing the project. The MIT License i
 
 ---
 
-**Built with React and a love for thoughtful design.**
->>>>>>> 1c8c57abf6e8ad3096ab27061e93b47ff7b328d4
+
